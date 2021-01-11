@@ -4,6 +4,27 @@ Collection of tips and tutorials on IBM Cloud to help you get started quickly wi
 
 ![ibm developer](images/ibm-developer-animation-final-50.gif)
 
+- [Build Fast on IBM Cloud](#build-fast-on-ibm-cloud)
+  - [What is IBM Cloud?](#what-is-ibm-cloud)
+  - [How do I sign up?](#how-do-i-sign-up)
+  - [Is it free?](#is-it-free)
+  - [What are some  products I can use to get started quickly?](#what-are-some--products-i-can-use-to-get-started-quickly)
+    - [IBM Cloud Essentials Course](#ibm-cloud-essentials-course)
+    - [IBM Developer resources](#ibm-developer-resources)
+    - [Machine Learning](#machine-learning)
+      - [Natural Language Understanding](#natural-language-understanding)
+      - [Watson Assistant](#watson-assistant)
+      - [Visual Recognition - Cloud Annotation Tool](#visual-recognition---cloud-annotation-tool)
+      - [Jupyter Notebooks](#jupyter-notebooks)
+      - [Watson Machine Learning](#watson-machine-learning)
+      - [AutoAI](#autoai)
+    - [Databases](#databases)
+      - [Relational Database - DB2](#relational-database---db2)
+      - [NoSQL Database - Cloudant](#nosql-database---cloudant)
+    - [Application Runtimes](#application-runtimes)
+    - [Rapid Prototyping](#rapid-prototyping)
+  - [Covid19 resources](#covid19-resources)
+  - [Build fast with IBM Cloud videos](#build-fast-with-ibm-cloud-videos)
 ## What is IBM Cloud?
 Provides over 190 services that allow you to build and customize your applications. The catalog provides free services in networking, containers, computing, analytics, machine learning, blockchain, databases, devops, internet of things, security and mobile. You can use the dashboard or the CLI (Command Line Interface) to create and work with these services. 
  
@@ -17,6 +38,22 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 - **including IBM Watson® APIs.**
 
 ## What are some  products I can use to get started quickly?
+
+### [IBM Cloud Essentials Course](ttps://www.coursera.org/learn/ibm-cloud-essentials)
+- Module 1 - Introduction to IBM Cloud
+  - IBM Cloud Overview
+  - Locations, Regions, and Zones
+  - Account Types and Support Plans
+- Module 3 - Deploying Applications
+  - Containers and Kubernetes
+  - OpenShift
+  - Cloud Foundry
+  - Cloud Functions
+- Module 4 - Services on IBM Cloud
+  - Databases
+  - Integration
+  - Artificial Intelligence
+
 ### IBM Developer resources
 - [IBM Developer](https://developer.ibm.com)
 - [Code Patterns](https://developer.ibm.com/patterns/)
