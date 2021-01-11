@@ -39,7 +39,7 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 
 ## What are some  products I can use to get started quickly?
 
-### [IBM Cloud Essentials Course](ttps://www.coursera.org/learn/ibm-cloud-essentials)
+### [IBM Cloud Essentials Course](https://www.coursera.org/learn/ibm-cloud-essentials)
 - Module 1 - Introduction to IBM Cloud
   - IBM Cloud Overview
   - Locations, Regions, and Zones
