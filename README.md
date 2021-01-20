@@ -156,9 +156,11 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 - [Node-RED](https://developer.ibm.com/components/node-red/)
 - [Node-RED Docs](https://nodered.org/docs/)
 
-## Covid19 resources
-- [Resources from Call for Code](https://developer.ibm.com/callforcode/get-started/covid-19/)
-- [Node-RED Covid charts](https://github.com/call-for-code/node-red-contrib-twc-covid19-tracker)
+## Climate Change resources
+- [Water Sustainability Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/water-sustainability/)
+- [Energy Sustainability Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/energy-sustainability/)
+- [Disaster Resiliency Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/disaster-resiliency/)
+- [Call for Code On-Demand](https://developer.ibm.com/conferences/c4cdc-take-on-climate-change/)
 
 ## Build fast with IBM Cloud videos
 - [Deploy Angular.js application on IBM CLoud](https://www.youtube.com/watch?v=xu6nEY2Y03A)
