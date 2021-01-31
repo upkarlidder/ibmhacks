@@ -2,7 +2,7 @@
 
 Collection of tips and tutorials on IBM Cloud to help you get started quickly with IBM Cloud.
 
-![ibm developer](images/ibm-developer-animation-final-50.gif)
+[![Quick video on developing on IBM Cloud for Hackathons](images/upkar-lucas.jpg)](https://www.youtube.com/watch?v=1oRFLuIDLZU "Quick video on developing on IBM Cloud for Hackathons")
 
 - [Build Fast on IBM Cloud](#build-fast-on-ibm-cloud)
   - [What is IBM Cloud?](#what-is-ibm-cloud)
