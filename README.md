@@ -1,6 +1,6 @@
 # Build Fast on IBM Cloud
 
-## Collection of tips and tutorials on IBM Cloud to help you get started quickly with IBM Cloud. 
+## Collection of tips and tutorials to help you get started quickly with IBM Cloud. 
 
 Click on the picture below to watch a short video on how you can build and host amazing projects on IBM Cloud!
 
