@@ -66,7 +66,7 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 
   - [Docs](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-getting-started)
   - [API](https://cloud.ibm.com/apidocs/natural-language-understanding)
-  - [Demo](https://developer.ibm.com/patterns/category/natural-language-processing/?fa=date%3ADESC&fb=)
+  - [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
   - [Code Patterns](https://developer.ibm.com/patterns/category/natural-language-processing/?fa=date%3ADESC&fb=)
   
 #### [Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
