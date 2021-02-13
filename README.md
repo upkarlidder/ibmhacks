@@ -4,7 +4,7 @@
 
 Click on the picture below to watch a short video on how you can build and host amazing projects on IBM Cloud!
 
-[![Quick video on developing on IBM Cloud for Hackathons](images/upkar-lucas.jpg)](https://youtu.be/BUL8rgs94q8 "Quick video on developing on IBM Cloud for Hackathons")
+[![Quick video on developing on IBM Cloud for Hackathons](images/upkar-lucas.jpg)](https://www.youtube.com/watch?v=HZPwjasqiCA "Quick video on developing on IBM Cloud for Hackathons")
 
 - [Build Fast on IBM Cloud](#build-fast-on-ibm-cloud)
   - [What is IBM Cloud?](#what-is-ibm-cloud)
