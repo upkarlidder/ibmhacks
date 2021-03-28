@@ -159,9 +159,9 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 - [Node-RED Docs](https://nodered.org/docs/)
 
 ## Climate Change resources
-- [Energy Sustainability Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/energy-sustainability/)
-- [Disaster Resiliency Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/disaster-resiliency/)
-- [Call for Code On-Demand](https://developer.ibm.com/conferences/c4cdc-take-on-climate-change/)
+- [Zero Hunger Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/zero-hunger/)
+- [Clean Water and Sustainability Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/clean-water/)
+- [Responsible Production and Green Consumbption Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/green-consumption/)
 
 ## Build fast with IBM Cloud videos
 - [Deploy Angular.js application on IBM CLoud](https://www.youtube.com/watch?v=xu6nEY2Y03A)
