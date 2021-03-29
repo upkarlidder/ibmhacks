@@ -157,6 +157,7 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 ### Rapid Prototyping
 - [Node-RED](https://developer.ibm.com/components/node-red/)
 - [Node-RED Docs](https://nodered.org/docs/)
+- [Node-RED tutorial by @pmmistry](https://github.com/pmmistry/Node-RED-Series)
 
 ## Climate Change resources
 - [Zero Hunger Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/zero-hunger/)
