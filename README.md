@@ -25,7 +25,7 @@ Click on the picture below to watch a short video on how you can build and host 
       - [NoSQL Database - Cloudant](#nosql-database---cloudant)
     - [Application Runtimes](#application-runtimes)
     - [Rapid Prototyping](#rapid-prototyping)
-  - [Covid19 resources](#covid19-resources)
+  - [Climate Change resources](#climate-change-resources)
   - [Build fast with IBM Cloud videos](#build-fast-with-ibm-cloud-videos)
 ## What is IBM Cloud?
 Provides over 190 services that allow you to build and customize your applications. The catalog provides free services in networking, containers, computing, analytics, machine learning, blockchain, databases, devops, internet of things, security and mobile. You can use the dashboard or the CLI (Command Line Interface) to create and work with these services. 
