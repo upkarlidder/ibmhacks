@@ -123,6 +123,7 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 #### [Relational Database - DB2](https://www.ibm.com/cloud/db2-on-cloud)
 > IBM Db2 on Cloud is a fully managed SQL cloud database that offers a dedicated operations team, point-in-time recovery, high availability disaster recovery (HADR) technology with multizone region support and independent scaling to protect your enterprise applications.
 - [Docs](https://cloud.ibm.com/docs/Db2onCloud?topic=Db2onCloud-free_plan)
+- [Demos](https://www.ibm.com/demos/collection/Db2-on-Cloud/)
 - [Code Patterns](https://developer.ibm.com/patterns/category/ibm-db2-database/?fa=date%3ADESC&fb=)
   
 #### [NoSQL Database - Cloudant](https://www.ibm.com/cloud/cloudant)
