@@ -20,9 +20,10 @@ Click on the picture below to watch a short video on how you can build and host 
       - [Jupyter Notebooks](#jupyter-notebooks)
       - [Watson Machine Learning](#watson-machine-learning)
       - [AutoAI](#autoai)
-    - [Databases](#databases)
+    - [Storage](#storage)
       - [Relational Database - DB2](#relational-database---db2)
       - [NoSQL Database - Cloudant](#nosql-database---cloudant)
+      - [Object Storage](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-about-cloud-object-storage)
     - [Application Runtimes](#application-runtimes)
     - [Rapid Prototyping](#rapid-prototyping)
   - [Covid19 resources](#covid19-resources)
@@ -119,7 +120,7 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 - [Docs](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html)
 - [Demo](https://www.youtube.com/watch?v=hLxwpjth1p4&feature=emb_logo)
 
-### Databases
+### Storage
 #### [Relational Database - DB2](https://www.ibm.com/cloud/db2-on-cloud)
 > IBM Db2 on Cloud is a fully managed SQL cloud database that offers a dedicated operations team, point-in-time recovery, high availability disaster recovery (HADR) technology with multizone region support and independent scaling to protect your enterprise applications.
 - [Docs](https://cloud.ibm.com/docs/Db2onCloud?topic=Db2onCloud-free_plan)
@@ -138,6 +139,13 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 - [Docs](https://cloud.ibm.com/docs/Cloudant?topic=Cloudant-about#about)
 - [API](https://cloud.ibm.com/apidocs/cloudant)
 - [Sample applications](https://cloud.ibm.com/docs/Cloudant?topic=Cloudant-about#tutorials)
+
+#### [Object Storage](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-about-cloud-object-storage)
+> IBM® Cloud Object Storage is a highly available, durable, and secure platform for storing unstructured data. Unstructured data (sometimes called binary or "blob" data) refers to data that is not highly structured in the manner of a database. Object storage is the most efficient way to store PDFs, media files, database backups, disk images, or even large structured datasets.
+- [Docs](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-getting-started-cloud-object-storage)
+- [API](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-compatibility-api)
+- [Libraries](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-sdk-about)
+
 ### Application Runtimes
 - IBM Cloud Foundry
   - [Python](https://github.com/IBM-Cloud/get-started-python)
