@@ -23,7 +23,7 @@ Click on the picture below to watch a short video on how you can build and host 
     - [Storage](#storage)
       - [Relational Database - DB2](#relational-database---db2)
       - [NoSQL Database - Cloudant](#nosql-database---cloudant)
-      - [Object Storage](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-about-cloud-object-storage)
+      - [Object Storage](#object-storage)
     - [Application Runtimes](#application-runtimes)
     - [Rapid Prototyping](#rapid-prototyping)
   - [Covid19 resources](#covid19-resources)
