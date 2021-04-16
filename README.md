@@ -4,7 +4,7 @@
 
 Click on the picture below to watch a short video on how you can build and host amazing projects on IBM Cloud!
 
-[![Quick video on developing on IBM Cloud for Hackathons](images/upkar-lucas.jpg)](https://www.youtube.com/watch?v=1oRFLuIDLZU "Quick video on developing on IBM Cloud for Hackathons")
+[![Quick video on developing on IBM Cloud for Hackathons](images/upkar-lucas.jpg)](https://www.youtube.com/watch?v=HZPwjasqiCA "Quick video on developing on IBM Cloud for Hackathons")
 
 For a more interactive experience, explore all the services provided on IBM Cloud as a [mind map](presentations/ibmcloud-mindmap.pdf)!
 [![A mindmap of IBM Cloud Services](images/ibm-cloud-mindmap.jpeg)](presentations/ibmcloud-mindmap.pdf "A mindmap of IBM Cloud Services")
@@ -24,9 +24,10 @@ For a more interactive experience, explore all the services provided on IBM Clou
       - [Jupyter Notebooks](#jupyter-notebooks)
       - [Watson Machine Learning](#watson-machine-learning)
       - [AutoAI](#autoai)
-    - [Databases](#databases)
+    - [Storage](#storage)
       - [Relational Database - DB2](#relational-database---db2)
       - [NoSQL Database - Cloudant](#nosql-database---cloudant)
+      - [Object Storage](#object-storage)
     - [Application Runtimes](#application-runtimes)
     - [Rapid Prototyping](#rapid-prototyping)
   - [Climate Change resources](#climate-change-resources)
@@ -70,7 +71,7 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 
   - [Docs](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-getting-started)
   - [API](https://cloud.ibm.com/apidocs/natural-language-understanding)
-  - [Demo](https://developer.ibm.com/patterns/category/natural-language-processing/?fa=date%3ADESC&fb=)
+  - [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
   - [Code Patterns](https://developer.ibm.com/patterns/category/natural-language-processing/?fa=date%3ADESC&fb=)
   
 #### [Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
@@ -123,10 +124,11 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 - [Docs](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html)
 - [Demo](https://www.youtube.com/watch?v=hLxwpjth1p4&feature=emb_logo)
 
-### Databases
+### Storage
 #### [Relational Database - DB2](https://www.ibm.com/cloud/db2-on-cloud)
 > IBM Db2 on Cloud is a fully managed SQL cloud database that offers a dedicated operations team, point-in-time recovery, high availability disaster recovery (HADR) technology with multizone region support and independent scaling to protect your enterprise applications.
 - [Docs](https://cloud.ibm.com/docs/Db2onCloud?topic=Db2onCloud-free_plan)
+- [Demos](https://www.ibm.com/demos/collection/Db2-on-Cloud/)
 - [Code Patterns](https://developer.ibm.com/patterns/category/ibm-db2-database/?fa=date%3ADESC&fb=)
   
 #### [NoSQL Database - Cloudant](https://www.ibm.com/cloud/cloudant)
@@ -141,6 +143,13 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 - [Docs](https://cloud.ibm.com/docs/Cloudant?topic=Cloudant-about#about)
 - [API](https://cloud.ibm.com/apidocs/cloudant)
 - [Sample applications](https://cloud.ibm.com/docs/Cloudant?topic=Cloudant-about#tutorials)
+
+#### [Object Storage](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-about-cloud-object-storage)
+> IBM® Cloud Object Storage is a highly available, durable, and secure platform for storing unstructured data. Unstructured data (sometimes called binary or "blob" data) refers to data that is not highly structured in the manner of a database. Object storage is the most efficient way to store PDFs, media files, database backups, disk images, or even large structured datasets.
+- [Docs](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-getting-started-cloud-object-storage)
+- [API](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-compatibility-api)
+- [Libraries](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-sdk-about)
+
 ### Application Runtimes
 - IBM Cloud Foundry
   - [Python](https://github.com/IBM-Cloud/get-started-python)
@@ -161,11 +170,12 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 ### Rapid Prototyping
 - [Node-RED](https://developer.ibm.com/components/node-red/)
 - [Node-RED Docs](https://nodered.org/docs/)
+- [Node-RED tutorial by @pmmistry](https://github.com/pmmistry/Node-RED-Series)
 
 ## Climate Change resources
-- [Energy Sustainability Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/energy-sustainability/)
-- [Disaster Resiliency Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/disaster-resiliency/)
-- [Call for Code On-Demand](https://developer.ibm.com/conferences/c4cdc-take-on-climate-change/)
+- [Zero Hunger Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/zero-hunger/)
+- [Clean Water and Sustainability Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/clean-water/)
+- [Responsible Production and Green Consumbption Starter Kit](https://developer.ibm.com/callforcode/get-started/climate-change/green-consumption/)
 
 ## Build fast with IBM Cloud videos
 - [Deploy Angular.js application on IBM CLoud](https://www.youtube.com/watch?v=xu6nEY2Y03A)
