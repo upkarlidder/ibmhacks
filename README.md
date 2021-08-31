@@ -40,7 +40,7 @@ If you are attending an event, please ask the IBM organizer or mentor for a link
 
 ## Is it free?
 A lot services on IBM Cloud have the lite tier, that you can use with your free IBM Cloud account. Lite accounts 
-- **don't have an expiration date**, **don't require a credit card** and 
+- **don't have an expiration date**, and 
 - **provide limited access to a catalog of more than 40 services**, 
 - **including IBM Watson® APIs.**
 
